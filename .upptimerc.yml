@@ -1,29 +1,38 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: kaisaba-group
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+# --- Webサービス ---
+  - name: かい鯖 公式サイト
+    url: https://kaisaba.net
+    icon: https://kaisaba.net/favicon.ico
+  - name: かい鯖 フォーラム
+    url: https://forum.kaisaba.net
+    icon: https://forum.kaisaba.net/favicon.ico
+  - name: スク解 公式サイト
+    url: https://sukukai.com
+    icon: https://sukukai.com/favicon.ico
+
+  # マイクラ
+  - name: かい鯖 Java版 (TCP 25565)
+    check: "tcp-ping"
+    url: mc.kaisaba.net
+    port: 25565
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.kaisaba.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: かい鯖グループ稼働状況
+  introTitle: "**かい鯖グループ サービス稼働状況**"
+  introMessage: かい鯖グループおよび関連Webサービスのリアルタイム稼働ステータスです。GitHub Actionsによる外部死活監視を行っています。
   navbar:
-    - title: Status
+    - title: ステータス
       href: /
+    - title: 公式サイト
+      href: https://kaisaba.net
+    - title: フォーラム
+      href: https://forum.kaisaba.net
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
