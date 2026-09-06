@@ -8,17 +8,18 @@ sites:
     url: https://kaisaba.net
     icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/kaisaba-group.svg
   - name: かい鯖グループ フォーラム
-    url: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/forum.png
-    icon: https://forum.kaisaba.net/favicon.ico
+    url: https://forum.kaisaba.net
+    icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/forum.png
   - name: スク解 公式サイト
-    url: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/sukukai.png
-    icon: https://sukukai.com/favicon.ico
+    url: https://sukukai.com
+    icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/sukukai.png
 
   # マイクラ
   - name: かい鯖かい鯖グループ Java版 (TCP 25565)
     check: "tcp-ping"
     url: mc.kaisaba.net
     port: 25565
+    icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/kaisaba-group.svg
 
 status-website:
   cname: status.kaisaba.net
