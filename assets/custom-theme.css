@@ -1,0 +1,42 @@
+:root {
+  /* 全体の背景・テキスト */
+  --body-background-color: #0b111e;
+  --body-text-color: #e2e8f0;
+
+  /* カード・コンポーネント */
+  --card-background-color: #131c2e;
+  --card-border-color: #1e2e4a;
+
+  /* ナビゲーションバー */
+  --nav-background-color: #131c2e;
+  --nav-border-bottom-color: #1e2e4a;
+  --nav-current-border-bottom-color: #4b96ff;
+
+  /* ステータス判定（Down / Degraded / Up） */
+  --up-border-left-color: #10b981;
+  --tag-up-background-color: #10b981;
+
+  --degraded-border-left-color: #f59e0b;
+  --tag-degraded-background-color: #f59e0b;
+  --change-background-color: #f59e0b;
+
+  --down-border-left-color: #ef4444;
+  --down-background-color: #3b1116;
+  --tag-down-background-color: #ef4444;
+
+  /* タグ文字色 */
+  --tag-color: #ffffff;
+
+  /* ボタン類（#4B96FF ベース） */
+  --error-button-border-color: #357ae8;
+  --error-button-background-color: #4b96ff;
+  --error-button-color: #ffffff;
+
+  --submit-button-border-color: #357ae8;
+  --submit-button-background-color: #4b96ff;
+  --submit-button-color: #ffffff;
+
+  /* グラフ表示 */
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
