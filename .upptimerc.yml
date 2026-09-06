@@ -10,9 +10,12 @@ sites:
   - name: かい鯖グループ フォーラム
     url: https://forum.kaisaba.net
     icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/forum.png
-  - name: スク解 公式サイト
+  - name: スク解WEB
     url: https://sukukai.com
     icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/sukukai.png
+  - name: ベーコンWEB
+    url: https://bac0n.f5.si/
+    icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/bacon.png
 
   # マイクラ
   - name: かい鯖かい鯖グループ Java版 (TCP 25565)
@@ -24,6 +27,7 @@ sites:
 status-website:
   cname: status.kaisaba.net
   logoUrl: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/kaisaba-group.svg
+  themeUrl: https://status.kaisaba.net/custom-theme.css
   name: かい鯖グループ稼働状況
   introTitle: "**かい鯖グループ サービス稼働状況**"
   introMessage: かい鯖グループおよび関連Webサービスのリアルタイム稼働ステータスです。GitHub Actionsによる外部死活監視を行っています。
