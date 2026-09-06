@@ -4,25 +4,25 @@ repo: status
 
 sites:
 # --- Webサービス ---
-  - name: かい鯖 公式サイト
+  - name: かい鯖グループ 公式サイト
     url: https://kaisaba.net
-    icon: https://kaisaba.net/favicon.ico
-  - name: かい鯖 フォーラム
-    url: https://forum.kaisaba.net
+    icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/kaisaba-group.svg
+  - name: かい鯖グループ フォーラム
+    url: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/forum.png
     icon: https://forum.kaisaba.net/favicon.ico
   - name: スク解 公式サイト
-    url: https://sukukai.com
+    url: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/sukukai.png
     icon: https://sukukai.com/favicon.ico
 
   # マイクラ
-  - name: かい鯖 Java版 (TCP 25565)
+  - name: かい鯖かい鯖グループ Java版 (TCP 25565)
     check: "tcp-ping"
     url: mc.kaisaba.net
     port: 25565
 
 status-website:
   cname: status.kaisaba.net
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/kaisaba-group.svg
   name: かい鯖グループ稼働状況
   introTitle: "**かい鯖グループ サービス稼働状況**"
   introMessage: かい鯖グループおよび関連Webサービスのリアルタイム稼働ステータスです。GitHub Actionsによる外部死活監視を行っています。
