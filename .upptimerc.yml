@@ -10,15 +10,15 @@ sites:
   - name: かい鯖グループ フォーラム
     url: https://forum.kaisaba.net
     icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/forum.png
-  - name: スク解WEB
+  - name: スク解ウェブ
     url: https://sukukai.com
     icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/sukukai.png
-  - name: ベーコンWEB
+  - name: ベーコンウェブ
     url: https://bac0n.f5.si/
     icon: https://raw.githubusercontent.com/kaisaba-group/status/master/assets/bacon.png
 
   # マイクラ
-  - name: かい鯖かい鯖グループ Java版 (TCP 25565)
+  - name: かい鯖グループ　プロキシ
     check: "tcp-ping"
     url: mc.kaisaba.net
     port: 25565
