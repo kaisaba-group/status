@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 908,
-    "timeWeek": 585,
-    "timeMonth": 629,
-    "timeYear": 626,
+    "time": 623,
+    "timeDay": 518,
+    "timeWeek": 575,
+    "timeMonth": 626,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://raw.githubusercontent.com/kaisaba-group/status/master/assets/forum.png",
     "slug": "かい鯖グループ-フォーラム",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1341,
-    "timeDay": 10305,
-    "timeWeek": 3132,
-    "timeMonth": 1463,
-    "timeYear": 1341,
+    "uptime": "99.23%",
+    "uptimeDay": "74.85%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.23%",
+    "time": 1830,
+    "timeDay": 19784,
+    "timeWeek": 5519,
+    "timeMonth": 2077,
+    "timeYear": 1830,
     "dailyMinutesDown": {
-      "2026-10-08": 5
+      "2026-10-09": 220,
+      "2026-10-08": 143
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 719,
-    "timeWeek": 589,
-    "timeMonth": 621,
-    "timeYear": 619,
+    "time": 617,
+    "timeDay": 542,
+    "timeWeek": 586,
+    "timeMonth": 618,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://raw.githubusercontent.com/kaisaba-group/status/master/assets/bacon.png",
     "slug": "ベーコンウェブ",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.24%",
+    "uptimeDay": "75.19%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.24%",
     "time": 767,
-    "timeDay": 695,
-    "timeWeek": 714,
-    "timeMonth": 775,
+    "timeDay": 0,
+    "timeWeek": 701,
+    "timeMonth": 770,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2026-10-08": 0
+      "2026-10-09": 220,
+      "2026-10-08": 138
     }
   },
   {
@@ -86,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 141,
-    "timeWeek": 126,
-    "timeMonth": 135,
-    "timeYear": 134,
+    "time": 133,
+    "timeDay": 112,
+    "timeWeek": 124,
+    "timeMonth": 134,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   }
 ]
