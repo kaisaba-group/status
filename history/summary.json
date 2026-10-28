@@ -22,20 +22,21 @@
     "url": "https://forum.kaisaba.net",
     "icon": "https://raw.githubusercontent.com/kaisaba-group/status/master/assets/forum.png",
     "slug": "かい鯖グループ-フォーラム",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.61%",
     "uptimeYear": "99.19%",
-    "time": 1474,
-    "timeDay": 807,
-    "timeWeek": 804,
-    "timeMonth": 1990,
-    "timeYear": 1474,
+    "time": 1786,
+    "timeDay": 10349,
+    "timeWeek": 3189,
+    "timeMonth": 2532,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2026-10-09": 461,
-      "2026-10-08": 143
+      "2026-10-08": 143,
+      "2026-10-28": 5
     }
   },
   {
@@ -61,12 +62,12 @@
     "url": "https://bac0n.f5.si/",
     "icon": "https://raw.githubusercontent.com/kaisaba-group/status/master/assets/bacon.png",
     "slug": "ベーコンウェブ",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.63%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 759,
     "timeDay": 548,
     "timeWeek": 709,
@@ -74,7 +75,8 @@
     "timeYear": 759,
     "dailyMinutesDown": {
       "2026-10-09": 461,
-      "2026-10-08": 138
+      "2026-10-08": 138,
+      "2026-10-28": 0
     }
   },
   {
